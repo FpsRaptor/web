@@ -46,7 +46,6 @@ header .dropdown-1:hover .content {
     position: absolute;
     background-color: rgb(245, 245, 245);
     top: 70px;   
-    width: 120%;
     padding: 12px 15px;
     box-sizing: border-box;
     color: black;
